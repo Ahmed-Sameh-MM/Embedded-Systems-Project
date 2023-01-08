@@ -1,0 +1,24 @@
+main.pbi: C:\ti\tivaware_c_series_2_1_4_178\inc\hw_memmap.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\stopwatch.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\timer.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\calculator.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\lcd.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\keypad.h \
+  C:\ti\tivaware_c_series_2_1_4_178\driverlib\timer.h \
+  C:\ti\tivaware_c_series_2_1_4_178\driverlib\sysctl.h \
+  C:\ti\tivaware_c_series_2_1_4_178\driverlib\gpio.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\DLib_float_setup.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\ycheck.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\math.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\stdbool.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\stdint.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\ysizet.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\DLib_Product.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\DLib_Defaults.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\yvals.h \
+  E:\Programs\IAR\ Systems\Embedded\ Workbench\arm\inc\c\stdio.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\DIO.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\bitwise_operation.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\tm4c123gh6pm.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\variables.h \
+  C:\Users\Abduaws\Desktop\timer_withSecondCode\main.c

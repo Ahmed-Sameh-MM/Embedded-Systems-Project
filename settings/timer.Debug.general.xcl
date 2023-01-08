@@ -1,0 +1,15 @@
+"E:\Programs\IAR Systems\Embedded Workbench\arm\bin\armproc.dll" 
+
+"E:\Programs\IAR Systems\Embedded Workbench\arm\bin\armlmiftdi.dll" 
+
+"C:\Users\Abduaws\Desktop\timer_withSecondCode\Debug\Exe\timer.out" 
+
+--plugin="E:\Programs\IAR Systems\Embedded Workbench\arm\bin\armbat.dll" 
+
+--device_macro="E:\Programs\IAR Systems\Embedded Workbench\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="E:\Programs\IAR Systems\Embedded Workbench\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+

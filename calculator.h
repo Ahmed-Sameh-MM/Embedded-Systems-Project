@@ -1,0 +1,2 @@
+char getOp();
+void GetCalculatorInput();
